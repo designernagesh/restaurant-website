@@ -207,7 +207,7 @@ nav .menu-btn,
 .a-b-text h2{
     color: #3d2514;
 }
-.productbox-button{
+.product-btn{
     width:120px;
 	height: 40px;
 	display: flex;
@@ -244,7 +244,7 @@ nav .menu-btn,
     text-align: left;
     
 }
-.about-text h1{
+.about-text h2{
 	font-size: 3.5rem;
 	color:#3d2514;
     font-weight: 500;
