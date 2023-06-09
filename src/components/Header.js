@@ -20,7 +20,6 @@ const Header = () => {
           </a>
         </div>
       </div>
-      <div className="arrow"></div>
     </section>
   );
 };

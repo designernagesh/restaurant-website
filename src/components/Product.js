@@ -5,7 +5,7 @@ function Product({ item }) {
                 <img src={item.image} alt={item.title} />
             </div>
             <div className="a-b-text">
-                <h2>{item.title}</h2>
+                <h3>{item.title}</h3>
                 <a href="#" className="product-btn">Order Now</a>
             </div>
         </div>

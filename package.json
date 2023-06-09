@@ -11,6 +11,7 @@
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
     "react-spinners": "^0.13.8",
+    "sass": "^1.63.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

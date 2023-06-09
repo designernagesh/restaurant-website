@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './App.css';
+import './App.scss';
 import Header from './components/Header';
 import Products from './pages/Products';
 import About from './pages/About';
