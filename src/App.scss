@@ -68,6 +68,8 @@ nav {
         letter-spacing: 1px;
         border-radius: 3px;
         transition: 0.2s ease-in-out;
+        user-select: none;
+        cursor: pointer;
         &:hover {
           background-color: #bf2222;
           color: #ffffff;

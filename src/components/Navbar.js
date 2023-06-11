@@ -27,16 +27,16 @@ const Navbar = () => {
 
       <ul className="menu">
         <li>
-          <Link to="main" className='active'>Home</Link>
+          <Link to="main" className='active' spy={true} smooth={true} duration={500}>Home</Link>
         </li>
         <li>
-          <Link to="products">Products</Link>
+          <Link to="products" spy={true} smooth={true} duration={500}>Products</Link>
         </li>
         <li>
-          <Link to="about">About</Link>
+          <Link to="about" spy={true} smooth={true} duration={500}>About</Link>
         </li>
         <li>
-          <Link to="contact">Contact</Link>
+          <Link to="contact" spy={true} smooth={true} duration={500}>Contact</Link>
         </li>
       </ul>
     </nav>
